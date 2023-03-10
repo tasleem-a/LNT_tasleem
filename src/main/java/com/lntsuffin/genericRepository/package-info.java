@@ -1,0 +1,1 @@
+package com.lntsuffin.genericRepository;
